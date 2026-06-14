@@ -18,7 +18,7 @@ Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
 
   </td>
   <td>
-    <img src="./for_git.png" width="200" alt="avatar" />
+    <img src="./for_git.jpg" width="200" alt="avatar" />
   </td>
   </tr>
 </table>
