@@ -22,7 +22,7 @@ Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
 
 <br>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlrNHplMjE1bjZjdWthM3R2N2psaDdkaW16ZTZ3dHUycDRnbmUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="20px"> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlrNHplMjE1bjZjdWthM3R2N2psaDdkaW16ZTZ3dHUycDRnbmUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="120px"> 
 
 <br><br>
 
