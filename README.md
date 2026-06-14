@@ -1,8 +1,10 @@
-<table>
+<table cellpadding="24">
   <tr>
-    <td>
+    <td width="65%">
 
-## Hello, I'm Kirill 👋
+# Hello, I'm Kirill 👋
+
+---
 
 🚀 Frontend developer
 
@@ -16,9 +18,11 @@ JavaScript • TypeScript • React • Redux • HTML • CSS
 
 Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
 
-  </td>
-  <td>
-    <img src="./for_git.jpg" width="200" alt="avatar" />
-  </td>
+<br><br>
+
+</td>
+<td width="35%" align="center">
+  <img src="./for_git.jpg" width="260" alt="avatar" />
+</td>
   </tr>
 </table>
