@@ -1,16 +1,24 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td>
 
-<!--
-**camperfail86/camperfail86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Kirill 👋
 
-Here are some ideas to get you started:
+🚀 Frontend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+
+JavaScript • TypeScript • React • Redux • HTML • CSS
+
+---
+
+### 📫 Contact me
+
+Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
+
+  </td>
+  <td>
+    <img src="./assets/avatar.png" width="220" alt="avatar" />
+  </td>
+  </tr>
+</table>
