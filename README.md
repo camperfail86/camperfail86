@@ -1,6 +1,8 @@
 <img align="right" src="./for_git.jpg" width="220" alt="avatar" />
 
-## Hello, I'm Kirill 👋
+# Hello, I'm Kirill 👋
+
+---
 
 ### 🚀 Frontend developer
 
