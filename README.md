@@ -2,8 +2,6 @@
 
 ## Hello, I'm Kirill 👋
 
----
-
 ### 🚀 Frontend developer
 
 JavaScript • TypeScript • React • Redux • HTML • CSS • Git • Vite • Swagger
