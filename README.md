@@ -21,9 +21,11 @@ Computer Games • Football • Code
 Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
 
 <div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlrNHplMjE1bjZjdWthM3R2N2psaDdkaW16ZTZ3dHUycDRnbmUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="60px"> 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlrNHplMjE1bjZjdWthM3R2N2psaDdkaW16ZTZ3dHUycDRnbmUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="60px"> 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlrNHplMjE1bjZjdWthM3R2N2psaDdkaW16ZTZ3dHUycDRnbmUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="60px"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwNWc5Z2c0ZWZ5NmcxdXFoM25lNDQxOXE2aGM4MnZxYTl5bnVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zx0OnDZLYCrVXX3N3g/giphy.gif" width="50px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwNWc5Z2c0ZWZ5NmcxdXFoM25lNDQxOXE2aGM4MnZxYTl5bnVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zx0OnDZLYCrVXX3N3g/giphy.gif" width="50px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwNWc5Z2c0ZWZ5NmcxdXFoM25lNDQxOXE2aGM4MnZxYTl5bnVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zx0OnDZLYCrVXX3N3g/giphy.gif" width="50px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwNWc5Z2c0ZWZ5NmcxdXFoM25lNDQxOXE2aGM4MnZxYTl5bnVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zx0OnDZLYCrVXX3N3g/giphy.gif" width="50px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwNWc5Z2c0ZWZ5NmcxdXFoM25lNDQxOXE2aGM4MnZxYTl5bnVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zx0OnDZLYCrVXX3N3g/giphy.gif" width="50px">
 </div>
 
 </td>
