@@ -1,9 +1,5 @@
 <img align="right" src="./for_git.jpg" width="220" alt="avatar" />
 
-<h2>Hello, I'm Kirill</h2>
-
-<br>
-
 <h3>🚀 Frontend developer</h3>
 
 JavaScript • TypeScript • React • Redux • HTML • CSS • Git • Vite • Swagger
