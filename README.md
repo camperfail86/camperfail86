@@ -1,6 +1,6 @@
 <img align="right" src="./for_git.jpg" width="220" alt="avatar" />
 
-<h2>Hello, I'm Kirill 👋</h2>
+
 
 <br>
 
