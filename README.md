@@ -1,21 +1,19 @@
 <img align="right" src="./for_git.jpg" width="220" alt="avatar" />
 
-## Hello, I'm Kirill 👋
+<h2>Hello, I'm Kirill 👋</h2>
 
 <br>
 
-### 🚀 Frontend developer
+<h3>🚀 Frontend developer</h3>
 
 JavaScript • TypeScript • React • Redux • HTML • CSS • Git • Vite • Swagger
 
-### 🌱 Hobbies
+<h3>🌱 Hobbies</h3>
 
 Computer Games • Football • Code
 
 <br>
 
-### 📫 Contact me
+<h3>📫 Contact me</h3>
 
 Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
-
-<br clear="right" />
