@@ -1,6 +1,4 @@
-<table cellpadding="24" width="100%">
-  <tr>
-    <td width="65%">
+<img align="right" src="./for_git.jpg" width="220" alt="avatar" />
 
 ## Hello, I'm Kirill 👋
 
@@ -20,6 +18,8 @@ Computer Games • Football • Code
 
 Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
 
+<br>
+
 <p align="center">
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNobTNrZHU4bTNyN2t2YnpzMjZ3YmNuNThhajJpMHJwcWlwZWF3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y5v3HlqUjtrQ0sfQnT/giphy.gif"
@@ -28,10 +28,3 @@ Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
     alt="gif"
   />
 </p>
-
-</td>
-<td width="35%" align="center">
-  <img src="./for_git.jpg" width="200" alt="avatar" />
-</td>
-  </tr>
-</table>
