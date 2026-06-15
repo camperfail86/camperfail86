@@ -1,6 +1,6 @@
 <table cellpadding="24">
   <tr>
-    <td width="65%">
+    <td width="75%">
 
 ## Hello, I'm Kirill 👋
 
@@ -27,7 +27,7 @@ Telegram: [@kochkin_dev](https://t.me/kochkin_dev)
 
 
 </td>
-<td width="35%" align="center">
+<td width="25%" align="center">
   <img src="./for_git.jpg" width="200" alt="avatar" />
 </td>
   </tr>
