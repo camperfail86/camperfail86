@@ -1,4 +1,4 @@
-<table cellpadding="24">
+<table cellpadding="24" width="100%">
   <tr>
     <td width="65%">
 
